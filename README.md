@@ -3,4 +3,4 @@ This repository contains the code corresponding to the paper "Compartmental-reac
 
 The numerical simulations were completed in Julia and can be found in the subfolder 'run-numerical-simulatinos'. The file run_simuation_2D.jl contains the main numerical algorithm
 
-The subfolder reproduce-paper-figures used Matlab and compressed data files to reproduce all main figures of the paper. The comments at the top of these figures also contain instructions as to which Julia files (and in which order) to run to complete the corresponding numerical simulations from scratch.
+The subfolder 'reproduce-paper-figures' used Matlab and compressed data files to reproduce all main figures of the paper. The comments at the top of these figures also contain instructions as to which Julia files (and in which order) to run to complete the corresponding numerical simulations from scratch.
